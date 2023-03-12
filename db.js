@@ -664,6 +664,11 @@ const Musics = [
         "Ninho - Jamais",
         "./musics/Jamais (feat. Dadju).mp3"
     ],
+    [
+        "./img/artistes/jok'air.jpg",
+        "Jok'Air - Elles ont trop joué avec mon coeur",
+        "./musics/Jok'Air - Elles ont trop joué avec mon coeur.mp3"
+    ],
 ];
 
 setTimeout(() => {
