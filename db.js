@@ -665,9 +665,14 @@ const Musics = [
         "./musics/Jamais (feat. Dadju).mp3"
     ],
     [
-        "./img/artistes/jok'air.jpg",
+        "./img/artistes/jok'air.png",
         "Jok'Air - Elles ont trop joué avec mon coeur",
         "./musics/Jok'Air - Elles ont trop joué avec mon coeur.mp3"
+    ],
+    [
+        "./img/artistes/aya.jpg",
+        "Aya Nakamura - Plus Jamais feat. Stormzy",
+        "./musics/Aya Nakamura - Plus Jamais feat. Stormzy (Clip officiel).mp3"
     ],
 ];
 
