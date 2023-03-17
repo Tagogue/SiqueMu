@@ -674,6 +674,21 @@ const Musics = [
         "Aya Nakamura - Plus Jamais feat. Stormzy",
         "./musics/Aya Nakamura - Plus Jamais feat. Stormzy (Clip officiel).mp3"
     ],
+    [
+        "./img/artistes/djadja-dinaz.jpg",
+        "Djadja & Dinaz - Pas là",
+        "./musics/Djadja & Dinaz - Pas là [Audio Officiel].mp3"
+    ],
+    [
+        "./img/artistes/pnl.jpg",
+        "PNL - Au DD",
+        "./musics/PNL - Au DD [Clip Officiel].mp3"
+    ],
+    [
+        "./img/artistes/ninho.jpg",
+        "Jusqu'à minuit (feat. JuL)",
+        "./musics/Jusqu'à minuit (feat. JuL).mp3"
+    ],
 ];
 
 setTimeout(() => {
