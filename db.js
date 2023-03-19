@@ -728,6 +728,15 @@ const Musics = [
         "Marwa Loud - Billet",
         "./musics2/Marwa Loud - Billet (Clip Officiel).mp3"
     ],
+    [
+        "./img/artistes/marwa.jpg",
+        "Marwa Loud - Billet",
+        "./musics2/Marwa Loud - Billet (Clip Officiel).mp3"
+    ],[
+        "./img/artistes/fetty.webp",
+        "Fetty Wap feat. Gradur - Trap Queen Remix",
+        "./musics2/Fetty Wap feat. Gradur - Trap Queen Remix.mp3"
+    ],
 ];
 
 setTimeout(() => {
