@@ -732,10 +732,21 @@ const Musics = [
         "./img/artistes/marwa.jpg",
         "Marwa Loud - Billet",
         "./musics2/Marwa Loud - Billet (Clip Officiel).mp3"
-    ],[
+    ],
+    [
         "./img/artistes/fetty.webp",
         "Fetty Wap feat. Gradur - Trap Queen Remix",
         "./musics2/Fetty Wap feat. Gradur - Trap Queen Remix.mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "Jul – Señora",
+        "./musics2/Jul – Señora [Clip Officiel].mp3"
+    ],
+    [
+        "./img/artistes/burna.webp",
+        "Burna Boy - On The Low",
+        "./musics2/Burna Boy - On The Low [Official Music Video].mp3"
     ],
 ];
 
