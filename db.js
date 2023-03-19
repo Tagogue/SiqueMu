@@ -686,8 +686,47 @@ const Musics = [
     ],
     [
         "./img/artistes/ninho.jpg",
-        "Jusqu'à minuit (feat. JuL)",
+        "Ninho - Jusqu'à minuit (feat. JuL)",
         "./musics/Jusqu'à minuit (feat. JuL).mp3"
+    ],
+
+    // -------------------
+    // Partie 2
+    // -------------------
+    [
+        "./img/artistes/ninho.jpg",
+        "Ninho - Pirate",
+        "./musics2/Pirate.mp3"
+    ],
+    [
+        "./img/artistes/djadja-dinaz.jpg",
+        "Djadja & Dinaz - Zumba",
+        "./musics2/Zumba.mp3"
+    ],
+    [
+        "./img/artistes/marwa.jpg",
+        "Marwa Loud feat Eva - Allo",
+        "./musics2/Marwa Loud feat Eva - Allo (Clip officiel).mp3"
+    ],
+    [
+        "./img/artistes/eva.jpg",
+        "Eva - Bella",
+        "./musics2/Eva - Bella.mp3"
+    ],
+    [
+        "./img/artistes/eva.jpg",
+        "Eva - Mood",
+        "./musics2/Eva - Mood.mp3"
+    ],
+    [
+        "./img/artistes/eva.jpg",
+        "Eva - Coeur noir",
+        "./musics2/Eva - Coeur noir (Clip officiel).mp3"
+    ],
+    [
+        "./img/artistes/marwa.jpg",
+        "Marwa Loud - Billet",
+        "./musics2/Marwa Loud - Billet (Clip Officiel).mp3"
     ],
 ];
 
