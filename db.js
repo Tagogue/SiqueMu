@@ -748,6 +748,21 @@ const Musics = [
         "Burna Boy - On The Low",
         "./musics2/Burna Boy - On The Low [Official Music Video].mp3"
     ],
+    [
+        "./img/artistes/abou.webp",
+        "Abou Debeing Ft Dadju - C'est Pas Bon",
+        "./musics2/Burna Boy - On The Low [Official Music Video].mp3"
+    ],
+    [
+        "./img/artistes/vava.jpg",
+        "VAVA CORÀZON - LA CADENCE feat DESKO YOUKNOW",
+        "./musics2/VAVA CORÀZON - LA CADENCE feat DESKO YOUKNOW [ CLIP OFFICIEL ].mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "Jul - Drôle de dame",
+        "./musics2/VAVA CORÀZON - LA CADENCE feat DESKO YOUKNOW [ CLIP OFFICIEL ].mp3"
+    ],
 ];
 
 setTimeout(() => {
