@@ -763,6 +763,11 @@ const Musics = [
         "Jul - Drôle de dame",
         "./musics2/VAVA CORÀZON - LA CADENCE feat DESKO YOUKNOW [ CLIP OFFICIEL ].mp3"
     ],
+    [
+        "./img/artistes/jul.jpg",
+        "Jul - Dans tes yeux",
+        "./musics2/VAVA CORÀZON - LA CADENCE feat DESKO YOUKNOW [ CLIP OFFICIEL ].mp3"
+    ],
 ];
 
 setTimeout(() => {
