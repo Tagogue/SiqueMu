@@ -768,6 +768,26 @@ const Musics = [
         "Jul - Dans tes yeux",
         "./musics2/Dans tes yeux.mp3"
     ],
+    [
+        "./img/artistes/davy.jpg",
+        "Davy One feat. Liim's - Bourbier",
+        "./musics2/Davy One feat. Liim's - Bourbier.mp3"
+    ],
+    [
+        "./img/artistes/mmz.jpg",
+        "MMZ - Laisse les parler",
+        "./musics2/Laisse les parler.mp3"
+    ],
+    [
+        "./img/artistes/mmz.jpg",
+        "MMZ - Au pied de ma tour",
+        "./musics2/MMZ - Au pied de ma tour [Clip Officiel].mp3"
+    ],
+    [
+        "./img/artistes/mmz.jpg",
+        "MMZ - Gnesis",
+        "./musics2/MMZ - Genesis [Clip Officiel].mp3"
+    ],
 ];
 
 setTimeout(() => {
