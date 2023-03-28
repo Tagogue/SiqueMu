@@ -788,6 +788,16 @@ const Musics = [
         "MMZ - Gnesis",
         "./musics2/MMZ - Genesis [Clip Officiel].mp3"
     ],
+    [
+        "./img/artistes/hamza.jpg",
+        "Hamza - Au Bout De La Nuit",
+        "./musics2/Au Bout De La Nuit.mp3"
+    ],
+    [
+        "./img/artistes/plk.jpg",
+        "PLK - Pilote feat. Hamza",
+        "./musics2/PLK - Pilote feat. Hamza (Clip Officiel).mp3"
+    ],
 ];
 
 setTimeout(() => {
