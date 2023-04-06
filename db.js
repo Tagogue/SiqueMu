@@ -191,7 +191,7 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "JUL - Baila",
+        "JuL - Baila",
         "./musics/Jul - Baïla 🕺🏼.mp3"
     ],
     [
@@ -206,12 +206,12 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - On M'appelle L'ovni",
+        "JuL - On M'appelle L'ovni",
         "./musics/Jul - On M'appelle L'ovni  Clip Officiel  2016.mp3"
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - Bande Organisée",
+        "JuL - Bande Organisée",
         "./musics/Bande Organisée - Sch  Kofs  Jul  Naps  Soso maness  Elams  Solda  Houari  Clip Officiel.mp3"
     ],
     [
@@ -306,12 +306,12 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - Mon Amour",
+        "JuL - Mon Amour",
         "./musics/JUL - MON AMOUR  2016.mp3"
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - Tchikita",
+        "JuL - Tchikita",
         "./musics/JUL - Tchikita  [05] Album Gratuit Vol . 2  2016 ( Big up a Dj Babs ).mp3"
     ],
     [
@@ -740,7 +740,7 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul – Señora",
+        "JuL – Señora",
         "./musics2/Jul – Señora [Clip Officiel].mp3"
     ],
     [
@@ -760,12 +760,12 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - Drôle de dame",
+        "JuL - Drôle de dame",
         "./musics2/Jul -  Drôle de dame  Album gratuit vol .4 [08]  2017.mp3"
     ],
     [
         "./img/artistes/jul.jpg",
-        "Jul - Dans tes yeux",
+        "JuL - Dans tes yeux",
         "./musics2/Dans tes yeux.mp3"
     ],
     [
@@ -797,6 +797,51 @@ const Musics = [
         "./img/artistes/plk.jpg",
         "PLK - Pilote feat. Hamza",
         "./musics2/PLK - Pilote feat. Hamza (Clip Officiel).mp3"
+    ],
+    [
+        "./img/artistes/ninho.jpg",
+        "Ninho - Toutes options feat. Blasko",
+        "./musics2/Ninho - Toutes options feat. Blasko (Clip officiel).mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Amnésia",
+        "./musics2/Amnésia.mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Ma Che Beauté",
+        "./musics2/JuL - Ma Che Beauté  Clip officiel  2018.mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Toto et Ninetta",
+        "./musics2/JuL - Toto et Ninetta  Clip officiel  2018.mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Ma Jolie",
+        "./musics2/JuL - Ma Jolie  Clip officiel  2017.mp3"
+    ],
+    [
+        "./img/artistes/siboy.png",
+        "Siboy - Mobali",
+        "./musics2/Siboy - Mobali (Clip Officiel) ft. Benash, Damso (1).mp3"
+    ],
+    [
+        "./img/artistes/wejdene.jpg",
+        "Wejdene - J'attends",
+        "./musics2/Wejdene - J'attends (Clip Officiel).mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Bwo",
+        "./musics2/Bwo.mp3"
+    ],
+    [
+        "./img/artistes/jul.jpg",
+        "JuL - Bwo",
+        "./musics2/Bwo.mp3"
     ],
 ];
 
