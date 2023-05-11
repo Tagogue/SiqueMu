@@ -840,8 +840,23 @@ const Musics = [
     ],
     [
         "./img/artistes/jul.jpg",
-        "JuL - Bwo",
-        "./musics2/Bwo.mp3"
+        "JuL - Délicieuse",
+        "./musics2/JuL - Délicieuse  Clip officiel   2018.mp3"
+    ],
+    [
+        "./img/artistes/booba.jpg",
+        "Booba feat Kaaris - Kalash",
+        "./musics2/Booba feat Kaaris - Kalash (Clip Officiel).mp3"
+    ],
+    [
+        "./img/artistes/naps.jpg",
+        "Naps (feat. Ninho) - 6.3",
+        "./musics2/Naps (feat. Ninho) - 6.3 (Clip Officiel).mp3"
+    ],
+    [
+        "./img/artistes/nerih.jpg",
+        "Nerih - Pas Le Temps",
+        "./musics2/Nerih - Pas Le Temps (Clip officiel).mp3"
     ],
 ];
 
