@@ -858,6 +858,11 @@ const Musics = [
         "Nerih - Pas Le Temps",
         "./musics2/Nerih - Pas Le Temps (Clip officiel).mp3"
     ],
+    [
+        "./img/artistes/morad.png",
+        "Morad - Como Están Remix Tagogue",
+        "./musics2/como-estan.mp3"
+    ],
 ];
 
 setTimeout(() => {
